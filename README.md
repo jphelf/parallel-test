@@ -1,4 +1,4 @@
-parallel_test
+parallel-test
 =============
 
 Allow parallel execution of test cases in Symfony2 applications
